@@ -43,6 +43,6 @@ int main()
 {
     Bisection b1;
     b1.initialGuess();
-    b1.getSolution();
+    b1.getSolution(); 
     return 0;
 }
