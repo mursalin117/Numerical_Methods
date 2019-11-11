@@ -40,7 +40,7 @@ class NewtonRaphsonMethod{
 
 int main(){
     NewtonRaphsonMethod n;
-    n.initialGuess();
+    n.initialGuess(); 
     n.getSolution(0.0001);
     return 0;
 }
