@@ -34,7 +34,7 @@ class NewtonRaphsonMethod{
                  x = x - h;
                  cout << "x" << ++i << " = " << x << endl;
             }
-            cout << "The solution is x = " << x << endl;
+            cout << "The solution is x = " << x << endl; 
         }
 };
 
